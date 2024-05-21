@@ -5,7 +5,8 @@ Este bot do Discord utiliza a API Gemini da Google para realizar análises de se
 # Funcionalidades
 ## Coleta de Mensagens:
 Coleta mensagens de canais específicos do Discord em um período de tempo definido.
-Análise de Sentimento: Analisa o sentimento das mensagens, classificando-as em nove categorias principais:
+## Análise de Sentimento: 
+Analisa o sentimento das mensagens, classificando-as em nove categorias principais:
 - Medo
 - Tristeza
 - Alegria
@@ -17,7 +18,7 @@ Análise de Sentimento: Analisa o sentimento das mensagens, classificando-as em 
 - Vergonha
 ## Intensidade: 
 Avalia a intensidade de cada sentimento em uma escala de 0 a 100.
-#Contribuições: 
+## Contribuições: 
 Identifica as palavras e frases que mais contribuíram para cada sentimento.
 ## Razões Possíveis: 
 Sugere possíveis razões por trás dos sentimentos expressos.
